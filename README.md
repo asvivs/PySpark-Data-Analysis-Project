@@ -29,4 +29,4 @@ The dataset used in this project contains information about Disney movies, inclu
 
 ## Contact
 
-For any inquiries or questions, please contact [asviofficial2871@gmail.com].
+For any inquiries or questions, please contact asviofficial2871@gmail.com.
